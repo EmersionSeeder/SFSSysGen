@@ -1,0 +1,1 @@
+The SFS Generator is a program used to create SFS solar systems.
