@@ -17,7 +17,7 @@ chaos_dir = os.path.join(os.path.dirname(__file__), 'HEIGHTMAPS')
 dev_path = os.path.join(os.path.dirname(__file__), 'DEVELOPMENT')
 dev_folder = dev_path
 gen_folder = os.path.join(script_dir, 'GENERATED')
-sys.path.append('{dev_folder}')
+sys.path.append(dev_folder)
 sys.path.append(dev_path)
 
 # Variables
