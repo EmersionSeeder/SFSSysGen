@@ -12,14 +12,15 @@ The SFS Generator is a TKINTER program used to create SFS solar systems.
 1. Open PowerShell
 2. Run these commands one-by-one:
    
-  ```python -m pip install pygame```
+  ```python pip install pygame```
 
-  ```python -m pip install pydub```
+  ```python pip install pydub```
   
-  ```python -m pip install pillow```
+  ```python pip install pillow```
   
-  ```python -m pip install simpleaudio```
-  
+  ```python pip install simpleaudio```
+ If it doesn't recognize "python", use "py.exe" instead.
+ If it doesn't recognize "pip", use "-m pip" instead.
 3. Place the SFS Generator Folder anywhere
 4. Run the python script
 5. Good to go!
